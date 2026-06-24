@@ -2,6 +2,7 @@
 
 ## Research Question
 Which of India's Nifty 50 companies are failing to disclose meaningful social and governance data in their BRSR reports, and which sectors are the worst offenders?
+Note : Analysis focuses primarily on essential (mandatory)Indicators.
 
 ## What is BRSR?
 BRSR stands for Business Responsibility and Sustainability Reporting. It is a framework mandated by SEBI (Securities and Exchange Board of India) requiring the top 1000 listed companies to report on their environmental, social, and governance (ESG) performance. It became mandatory from FY2022-23.
