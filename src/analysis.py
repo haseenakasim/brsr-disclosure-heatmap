@@ -21,3 +21,7 @@ print(df.columns.tolist())
 # check for missing values
 print("\nMissing values per column:")
 print(df.isnull().sum())
+# Average score per sector
+print("\nAverage score per sector:")
+sector_scores=df.groupby('Sector') ['average_score'].mean()
+print(sector_scores.to_string())
