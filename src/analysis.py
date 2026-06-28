@@ -2,7 +2,7 @@ import pandas as pd
 # Load the data
 df = pd.read_csv('data/raw/scores.csv')
 # Define KPI Columns
-kpi_cols =['kpi1_energy','kpi2_water','kpi3_ghg','kpi4_waste','kpi5_scope3','kpi6_safety','kpi7_gender','kpi8_fairness','kpi9_human_rights','kpi10_SIA']
+kpi_cols =['gender_wage_pct','contract_safety','payable_days', 'human_rights_training','data_breach','sia_conducted','rehab_resettlement','tier2_wages_pct','water_discharge','waste_intensity','scope3_emission']
 # Calculate average score per company
 # na ignored means NA cells are excluded from average
 df['average_score'] =df[kpi_cols].mean(axis=1)
