@@ -1,21 +1,51 @@
-Company,Sector,kpi1_energy,kpi2_water,kpi3_ghg,kpi4_waste,kpi5_scope3,kpi6_safety,kpi7_gender,kpi8_fairness,kpi9_human_rights,kpi10_SIA
-Adani Enterprises,Metals & Mining,2,2,2,2,2,2,2,2,2,NA
-Adani Ports and SEZ,Services,1,1,2,2,2,1,0,0,2,2
-Apollo Hospitals,Healthcare,2,2,2,2,0,2,2,2,2,NA
-Asian Paints,Consumer durables,2,2,2,2,2,2,2,2,2,NA
-Axis Bank,Financial Services,2,1,2,1,2,1,2,2,2,NA
-Bajaj Auto,Automobile ,2,2,2,2,0,2,2,2,2,NA
-Bajaj Finance,Financial Services,2,1,2,2,2,2,2,2,2,NA
-Bajaj Finserv,Financial Services,2,1,2,2,2,2,2,2,2,NA
-Bharat Electronics,Capital Goods,,,,,,,,,,
-Bharati Airtel,Telecommunication,2,2,2,2,0,2,2,2,2,NA
-Cipla,Healthcare,2,2,2,2,2,2,2,2,2,NA
-Coal India,"Oil, Gas and Consumable fuels",2,2,2,2,2,2,2,2,2,2
-Dr Reddy’s Laboratories,Healthcare,2,2,2,2,2,2,2,2,2,NA
-Eicher Motors,Automobile ,2,1,2,2,0,2,2,2,2,NA
-Eternal,Consumer Services,,,,,,,,,,
-Grasim Industries,Construction Materials,2,2,2,2,2,2,2,2,2,NA
-HCLTech,Information Technology,2,2,2,2,2,2,2,2,2,NA
-HDFC Bank,Financial Services,2,2,2,2,1,2,2,2,2,NA
-HDFC Life,Financial Services,2,1,2,2,1,1,2,2,2,NA
-Hindalco Industries ,Metals & Mining,,,,,,,,,,
+Company,Sector,gender_wage_pct,contract_safety,payable_days,human_rights_training,data_breach,sia_conducted,rehab_resettlement,tier2_wages_pct,water_discharge,waste_intensity,scope3_emission
+Adani Enterprises,Metals & Mining,1,1,1,1,1,0,0,1,1,0,1
+Adani Ports and SEZ,Services,0,1,0,1,0,0,0,0,0,0,1
+Apollo Hospitals,Healthcare,1,0,1,1,1,1,1,0,0,1,0
+Asian Paints,Consumer durables,1,1,1,1,1,1,1,1,0,1,1
+Axis Bank,Financial Services,1,0,1,0,1,1,1,1,0,0,1
+Bajaj Auto,Automobile & Auto Components,1,1,1,1,1,1,1,1,1,1,0
+Bajaj Finance,Financial Services,1,0,1,0,1,1,1,1,0,1,1
+Bajaj Finserv,Financial Services,1,1,1,0,1,1,1,1,0,1,1
+Bharat Electronics,Capital Goods,1,1,1,1,1,1,1,1,0,0,0
+Bharati Airtel,Telecommunication,1,1,1,1,1,1,1,1,1,0,0
+Cipla,Healthcare,1,1,1,1,1,1,1,1,1,1,1
+Coal India,"Oil, Gas and Consumable fuels",1,1,1,1,1,0,1,1,0,0,0
+Dr Reddy’s Laboratories,Healthcare,1,1,0,1,1,1,1,1,1,1,1
+Eicher Motors,Automobile & Auto Components,1,0,0,1,1,1,1,1,1,0,0
+Eternal,Consumer Services,1,1,1,1,1,0,0,1,0,0,1
+Grasim Industries,Construction Materials,1,1,1,1,1,1,1,1,1,1,1
+HCLTech,Information Technology,1,1,1,1,1,1,1,1,1,1,1
+HDFC Bank,Financial Services,1,1,1,0,1,1,1,1,1,1,1
+HDFC Life,Financial Services,1,0,1,1,1,1,1,1,0,1,0
+Hindalco Industries ,Metals & Mining,1,1,1,1,1,1,1,1,1,1,0
+Hinustan Unilever,Fast Moving Consumer Goods,1,1,1,1,1,0,0,1,0,1,0
+ICICI Bank,Financial Services,1,0,1,1,1,1,1,1,0,1,0
+IndiGo,Services,1,1,1,1,1,1,1,1,1,1,0
+Infosys,Information Technology,1,1,1,1,1,1,1,1,1,0,1
+ITC,Fast Moving Consumer Goods,1,0,1,1,1,0,0,1,1,1,1
+Jio Financial Services,Financial Services,1,1,1,1,1,1,1,1,0,0,0
+JSW Steel,Metals & Mining,1,1,1,1,1,1,1,1,1,1,1
+Kotak Mahindra Bank,Financial Services,1,1,1,1,1,1,1,1,1,1,1
+Larsen & Toubro,Construction Materials,1,1,1,1,1,1,1,1,1,1,1
+Mahindra & Mahindra,Automobile & Auto Components,1,0,1,1,1,1,1,1,1,1,1
+Maruti Suzuki,Automobile & Auto Components,1,1,1,1,1,0,0,1,1,1,1
+Max Healthcare,Healthcare,1,1,1,1,1,1,1,1,0,1,0
+Nestle India,Fast Moving Consumer Goods,1,1,1,1,1,1,1,1,1,1,0
+NTPC,Power,1,1,1,1,1,1,1,1,1,1,1
+Oil and Natural Gas Corporation,"Oil, Gas and Consumable fuels",1,1,1,1,1,1,0,1,1,1,1
+Power Grid ,Power,1,1,1,1,1,1,1,1,1,1,0
+Reliance Industries,"Oil, Gas and Consumable fuels",1,1,1,1,1,1,1,1,1,1,0
+SBI Life Insurance Company,Financial Services,1,1,1,1,1,1,1,1,0,0,0
+Shriram Finance,Financial Services,1,1,1,1,1,1,1,1,1,1,1
+State Bank of India,Financial Services,1,1,1,1,1,1,1,1,1,1,1
+Sun Pharma,Healthcare,1,1,1,1,1,1,1,1,1,1,0
+Tata Consultancy Services,Information Technology,1,1,1,1,1,1,1,1,1,1,1
+Tata Consumer Products,Fast Moving Consumer Goods,1,1,1,1,1,0,0,1,1,0,0
+Tata Motors Passenger Vehicles,Automobile & Auto Components,1,1,1,1,1,0,0,1,1,0,1
+Tata Steel,Metals & Mining,1,1,1,1,1,1,1,1,1,1,1
+Tech Mahindra ,Information Technology,1,1,1,1,1,1,1,1,1,1,1
+Titan Company,Consumer durables,1,1,1,0,1,1,1,1,1,1,0
+Trent ,Consumer Services,1,0,1,1,1,1,1,1,0,1,0
+UltraTech Cement ,Construction Materials,1,0,1,0,1,0,1,1,1,1,1
+Wipro,Information Technology,0,0,1,1,0,1,1,1,0,1,0

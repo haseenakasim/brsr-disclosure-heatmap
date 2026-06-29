@@ -1,0 +1,51 @@
+Company,gender_wage_pct,contract_safety,payable_days,human_rights_training,data_breach,sia_conducted,rehab_resettlement,tier2_wages_pct,water_discharge,waste_intensity,scope3_emission
+Maruti Suzuki,1,1,1,1,1,0,0,1,1,1,1
+Bajaj Auto,1,1,1,1,1,1,1,1,1,1,0
+Mahindra & Mahindra,1,0,1,1,1,1,1,1,1,1,1
+Tata Motors Passenger Vehicles,1,1,1,1,1,0,0,1,1,0,1
+Eicher Motors,1,0,0,1,1,1,1,1,1,0,0
+Bharat Electronics,1,1,1,1,1,1,1,1,0,0,0
+UltraTech Cement ,1,0,1,0,1,0,1,1,1,1,1
+Larsen & Toubro,1,1,1,1,1,1,1,1,1,1,1
+Grasim Industries,1,1,1,1,1,1,1,1,1,1,1
+Trent ,1,0,1,1,1,1,1,1,0,1,0
+Eternal,1,1,1,1,1,0,0,1,0,0,1
+Asian Paints,1,1,1,1,1,1,1,1,0,1,1
+Titan Company,1,1,1,0,1,1,1,1,1,1,0
+ITC,1,0,1,1,1,0,0,1,1,1,1
+Hinustan Unilever,1,1,1,1,1,0,0,1,0,1,0
+Tata Consumer Products,1,1,1,1,1,0,0,1,1,0,0
+Nestle India,1,1,1,1,1,1,1,1,1,1,0
+State Bank of India,1,1,1,1,1,1,1,1,1,1,1
+ICICI Bank,1,0,1,1,1,1,1,1,0,1,0
+Jio Financial Services,1,1,1,1,1,1,1,1,0,0,0
+Kotak Mahindra Bank,1,1,1,1,1,1,1,1,1,1,1
+HDFC Bank,1,1,1,0,1,1,1,1,1,1,1
+Shriram Finance,1,1,1,1,1,1,1,1,1,1,1
+Bajaj Finserv,1,1,1,0,1,1,1,1,0,1,1
+Bajaj Finance,1,0,1,0,1,1,1,1,0,1,1
+Axis Bank,1,0,1,0,1,1,1,1,0,0,1
+HDFC Life,1,0,1,1,1,1,1,1,0,1,0
+SBI Life Insurance Company,1,1,1,1,1,1,1,1,0,0,0
+Sun Pharma,1,1,1,1,1,1,1,1,1,1,0
+Dr Reddy’s Laboratories,1,1,0,1,1,1,1,1,1,1,1
+Cipla,1,1,1,1,1,1,1,1,1,1,1
+Max Healthcare,1,1,1,1,1,1,1,1,0,1,0
+Apollo Hospitals,1,0,1,1,1,1,1,0,0,1,0
+Tata Consultancy Services,1,1,1,1,1,1,1,1,1,1,1
+Tech Mahindra ,1,1,1,1,1,1,1,1,1,1,1
+Wipro,0,0,1,1,0,1,1,1,0,1,0
+Infosys,1,1,1,1,1,1,1,1,1,0,1
+HCLTech,1,1,1,1,1,1,1,1,1,1,1
+JSW Steel,1,1,1,1,1,1,1,1,1,1,1
+Hindalco Industries ,1,1,1,1,1,1,1,1,1,1,0
+Tata Steel,1,1,1,1,1,1,1,1,1,1,1
+Adani Enterprises,1,1,1,1,1,0,0,1,1,0,1
+Reliance Industries,1,1,1,1,1,1,1,1,1,1,0
+Oil and Natural Gas Corporation,1,1,1,1,1,1,0,1,1,1,1
+Coal India,1,1,1,1,1,0,1,1,0,0,0
+NTPC,1,1,1,1,1,1,1,1,1,1,1
+Power Grid ,1,1,1,1,1,1,1,1,1,1,0
+IndiGo,1,1,1,1,1,1,1,1,1,1,0
+Adani Ports and SEZ,0,1,0,1,0,0,0,0,0,0,1
+Bharati Airtel,1,1,1,1,1,1,1,1,1,0,0

@@ -1,0 +1,20 @@
+[project]
+name = "brsr-disclosure-heatmap"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.0",
+    "networkx>=3.6.1",
+    "numpy>=2.4.6",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.3",
+    "plotly>=6.8.0",
+    "requests>=2.34.2",
+    "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
+    "thefuzz>=0.22.1",
+]
